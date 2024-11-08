@@ -44,14 +44,5 @@ This project enabled me to:
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](your-linkedin-profile-url) for collaboration or discussion about this project and other data analytics topics!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tapzul-sai-charan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) for collaboration or discussion about this project and other data analytics topics!
 
----
-
-### Hashtags
-
-**#PowerBI #DataAnalytics #BusinessIntelligence #DAX #DataVisualization #PredictiveAnalytics #DataDriven #DataScience**
-
----
-
-Replace "your-linkedin-profile-url" with your actual LinkedIn profile link, and feel free to adjust any sections to better fit your specific project details!
